@@ -6,7 +6,7 @@ This project uses a dataset found on Kaggle that contains every NBA player’s s
 
 We used a MAMP server to create a connection to the MySQL database (version 14). Our frontend is written in PHP and HTML. To recreate the database, simply download the csv from Kaggle (source below) and put it into the correct folder. Then, run the database creation script.
 
-The demo file contains a link to a running demo of the application.
+The demo file contains a link to a running demo of the application, while the "db" directory contains the SQL file itself.
 
 
 
